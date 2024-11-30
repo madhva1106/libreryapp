@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "842239265491",
+    "project_id": "libraryappbysumit-31ae6",
+    "storage_bucket": "libraryappbysumit-31ae6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842239265491:android:b5599833f469f12953e226",
+        "android_client_info": {
+          "package_name": "com.example.libraryappbyshahid"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-P7euJk6hZuab2s5AqdtdmXWRyC2EiQk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
